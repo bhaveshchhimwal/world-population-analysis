@@ -1,6 +1,6 @@
 # Global Population Analysis
 
-An exploratory data analysis and demographic segmentation of 234 countries, using 2024 UN-style population data. Built as a data analyst portfolio project — focus is on asking specific, business-relevant questions rather than generic exploration.
+An exploratory data analysis and demographic segmentation of 234 countries, using 2024 UN-style population data.
 
 ## Objective
 
