@@ -1,4 +1,4 @@
-# Global Population Analysis 2024
+# Global Population Analysis
 
 An exploratory data analysis and demographic segmentation of 234 countries, using 2024 UN-style population data. Built as a data analyst portfolio project — focus is on asking specific, business-relevant questions rather than generic exploration.
 
@@ -43,3 +43,7 @@ Source: [World Population by Countries (2025), Kaggle](https://www.kaggle.com/da
 ## Notes
 
 `Urban Pop %` had 18 missing values, concentrated almost entirely in small territories and city-states (Hong Kong, Monaco, Réunion, etc.) plus Venezuela. These were left as `NaN` rather than dropped or imputed, since the missingness pattern wasn't random and a fabricated average would misrepresent these unusual cases.
+
+## Live Dashboard
+
+An interactive Tableau Public dashboard built from this same cleaned dataset is available here: [link](https://public.tableau.com/app/profile/bhavesh.chhimwal/viz/Dashboard_17823029131070/Dashboard1)
