@@ -1,4 +1,4 @@
-# World Population Analysis 2024
+# Global Population Analysis 2024
 
 An exploratory data analysis and demographic segmentation of 234 countries, using 2024 UN-style population data. Built as a data analyst portfolio project — focus is on asking specific, business-relevant questions rather than generic exploration.
 
