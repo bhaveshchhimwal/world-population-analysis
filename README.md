@@ -2,6 +2,14 @@
 
 An exploratory data analysis and demographic segmentation of 234 countries, using 2024 UN-style population data.
 
+---
+
+## Dashboard Preview
+
+![Global Population](dashboard_preview.png)
+
+---
+
 ## Objective
 
 Most population datasets get treated as a sandbox for plotting practice. This project instead asks four concrete questions:
